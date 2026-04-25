@@ -1,5 +1,5 @@
 # process-recovery
-An IDA plugin for recovering process info via debuginfod.
+An IDA loader for recovering process info via debuginfod.
 
 Instruction:
 1. Download file and copy it in /opt/ida-pro/loaders/
